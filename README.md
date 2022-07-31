@@ -2,7 +2,8 @@
 <h3 align="center">data and development</h3>
 <img align="right" alt="coding" width="200" src="https://media3.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=790b761166917f46ccad77d00069a8f4368592e27ade32ce&rid=giphy.gif&ct=g">
 
-I am a computer information systems student at King Saud University. I am interested in web development and data analysis. I enjoy learning new languages and frameworks such as Python, JavaScript, and Django. I also enjoy working in the data field in general.<br />
+I am a computer information systems student at King Saud University, I am interested in web development and data analysis. <br />
+I enjoy learning new languages and frameworks such as Python, JavaScript, and Django.
 
 - 🌱 I’m currently learning **data analysis** <br />
 
