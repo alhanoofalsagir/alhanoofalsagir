@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alhanoof Alsagir</h1>
+<img src="https://komarev.com/ghpvc/?username=alhanoofalsagir&style=flat-square&color=yellow" alt=""/>
+
 <h3 align="center">data and development</h3>
 <img align="right" alt="coding" width="200" src="https://media3.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=790b761166917f46ccad77d00069a8f4368592e27ade32ce&rid=giphy.gif&ct=g">
 
